@@ -79,7 +79,7 @@ sns.barplot(
 
 ## 📁 Structure du Notebook
 
-### Formation_ML_&_DL:_S1_Apprentissage_supervisé_(HOUTATE_Saïd_S8_CAC_G2_24010355).ipynb
+### Formation_ML_&_DL:_S1_Apprentissage_supervisé_(Hajar_HAMINE_S8_CAC_G2_22001267).ipynb
 ```
 ├── 01. Chargement & Exploration des données
 ├── 02. Prétraitement (80/20 train/test)
